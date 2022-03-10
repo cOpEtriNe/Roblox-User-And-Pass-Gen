@@ -1,7 +1,7 @@
 # Roblox-User-And-Pass-Gen
 Easy way to create a roblox account.
 
-Support the original coder here: [Coder](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Random%20Password%20Generator)
+Support the original password generator here here: [Coder](https://github.com/ayushi7rawat/Youtube-Projects/tree/master/Random%20Password%20Generator)
 
 ## How to use
 To use this py file, you need something like PyCharm to run it (thats what i used anyway.)
